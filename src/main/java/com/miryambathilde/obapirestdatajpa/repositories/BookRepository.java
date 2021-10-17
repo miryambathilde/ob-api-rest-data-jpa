@@ -1,5 +1,6 @@
-package com.miryambathilde.obapirestdatajpa;
+package com.miryambathilde.obapirestdatajpa.repositories;
 
+import com.miryambathilde.obapirestdatajpa.entities.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

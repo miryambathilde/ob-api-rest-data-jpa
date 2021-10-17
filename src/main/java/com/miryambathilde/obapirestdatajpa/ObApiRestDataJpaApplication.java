@@ -1,5 +1,7 @@
 package com.miryambathilde.obapirestdatajpa;
 
+import com.miryambathilde.obapirestdatajpa.entities.Book;
+import com.miryambathilde.obapirestdatajpa.repositories.BookRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

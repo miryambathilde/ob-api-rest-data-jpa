@@ -1,4 +1,4 @@
-package com.miryambathilde.obapirestdatajpa;
+package com.miryambathilde.obapirestdatajpa.entities;
 
 import javax.persistence.*;
 import java.time.LocalDate;
