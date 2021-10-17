@@ -31,7 +31,7 @@ public class ObApiRestDataJpaApplication {
 		System.out.println("Número de libros en base de datos después de añadir libros: " + repository.findAll().size());
 
 		// borrar un libro - deleteById - y le pasamos el id + L, porque es un (Long)
-		repository.deleteById(1L);
+		//repository.deleteById(1L);
 		System.out.println("Número de libros en base de datos después de borrar libro: " + repository.findAll().size());
 	}
 }
